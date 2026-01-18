@@ -66,10 +66,6 @@
     * 🌍 การออกแบบโลก Open World ที่กว้างใหญ่
     * 🎨 กราฟิกและ 3D Assets ที่ปรับแต่งเอง
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/161b22/8b5cf6?text=Element+Zero+Gameplay+Preview" alt="Element Zero Preview" style="border-radius: 10px; border: 1px solid #30363d;">
-</div>
-
 ---
 
 ### 📊 สถิติบน GitHub (GitHub Stats)
